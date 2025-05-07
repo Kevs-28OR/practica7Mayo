@@ -13,6 +13,7 @@ Practica para crear un repositorio
 1. Set up your table and code blocks.
 1. Perform this step.
 
+![image1]¡https://github.com/Kevs-28OR/practica7Mayo/blob/main/images%20(1).jpg
    ![screen](https://experienceleague.adobe.com/docs/contributor/assets/adobe_standard_logo.png?lang=es)
 
 1. Make sure that your table looks like this:
