@@ -17,3 +17,4 @@
 
 1. Do another step.
 
+[descargar PDF robot ](https://github.com/Kevs-28OR/practica7Mayo/blob/main/patitofeo.pdf)
