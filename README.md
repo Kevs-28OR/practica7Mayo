@@ -21,16 +21,12 @@ Practica para crear un repositorio
    |---|---|
    | How | are you? |
 
-1. This is the fourth step.
 
-   | Header | Another header | Yet another header |
+
+| Header | Another header | Yet another header |
 |--- |--- |--- |
 | row 1 | column 2 | column 3 |
 | row 2 | row 2 column 2 | row 2 column 3 |
 
+ 
 
-   >[!NOTE]
-   >
-   >This is note text.
-
-1. Do another step.
